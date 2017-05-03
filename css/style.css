@@ -708,6 +708,13 @@ p {
 .bg-yellow {
   background: #fec107 !important; }
 
+  .bg-orange {
+    background: #CF6853 !important; }
+  .bg-cyan {
+    background: #44B3C9 !important; }
+    .bg-deepyellow {
+      background: #f9a825 !important; }
+
 .bg-red {
   background: #ff3d00 !important; }
 
@@ -1466,7 +1473,7 @@ blockquote {
 .interest-sec .mdl-card i {
   font-size: 30px;
   display: block;
-  color: #fec107; }
+  color: #37474f; }
 .interest-sec .mdl-card span {
   display: block;
   text-transform: capitalize;
