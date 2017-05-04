@@ -714,6 +714,12 @@ p {
     background: #44B3C9 !important; }
     .bg-deepyellow {
       background: #f9a825 !important; }
+      .bg-golden {
+        background: #DAA520 !important; }
+        .bg-silver {
+          background: #808080 !important; }
+        .bg-bronze {
+          background: #8B4513 !important; }
 
 .bg-red {
   background: #ff3d00 !important; }
@@ -1170,7 +1176,7 @@ blockquote {
   left: 0;
   top: 0; }
   .bg-struct.bg-img {
-    background: url("../img/abstract-bg-my-8.jpg");
+    background: url("../img/abstract-bg-my-4.jpg");
     background-position: center;
     background-size: cover; }
   .bg-struct.bg-img-2 {
