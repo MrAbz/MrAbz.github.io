@@ -1,19 +1,16 @@
 $(window).scroll(function() {
 
-    if ($(this).scrollTop()>1500)
+    if ($(this).scrollTop()=1469)
      {
-        $('.timeline-wrap').fadeOut();
-        $('.timeline').fadeOut();
-        $('.timeline-badge').fadeOut();
-        $('.timeline-panel').fadeOut();
-        $('.timeline-heading').fadeOut();
+        $('.timeline-inverted').fadeIn();
      }
-    else
+else
      {
-       $('.timeline-wrap').fadeIn();
-       $('.timeline').fadeIn();
-       $('.timeline-badge').fadeIn();
-       $('.timeline-panel').fadeIn();
-       $('.timeline-heading').fadeIn();
+       $('.timeline-inverted').fadeOut();
      }
  });
+ document.onmousemove = function(e){
+ var x = e.pageX;
+ var y = e.pageY;
+ e.target.title = "X is "+x+" and Y is "+y;
+ };
