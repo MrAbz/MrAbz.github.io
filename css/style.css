@@ -1176,7 +1176,7 @@ blockquote {
   left: 0;
   top: 0; }
   .bg-struct.bg-img {
-    background: url("../img/abstract-bg-my-4.jpg");
+    background: url("../img/abstract-bg-my-2.jpg");
     background-position: center;
     background-size: cover; }
   .bg-struct.bg-img-2 {
@@ -1396,15 +1396,15 @@ blockquote {
           background: #581845; }
 /*Tech Bar*/
   .skills-sec .progress-bar-graph .bar-wrap.t1-bar span {
-    background: #D50B53; }
+    background: #CF6766; }
     .skills-sec .progress-bar-graph .bar-wrap.t1-bar span:after {
       background: #A7414A; }
   .skills-sec .progress-bar-graph .bar-wrap.t2-bar span {
-    background: #328DAA; }
+    background: #30415D; }
     .skills-sec .progress-bar-graph .bar-wrap.t2-bar span:after {
       background: #282726; }
   .skills-sec .progress-bar-graph .bar-wrap.t3-bar span {
-    background: #704307; }
+    background: #3F3250; }
     .skills-sec .progress-bar-graph .bar-wrap.t3-bar span:after {
       background: #6A8A82; }
   .skills-sec .progress-bar-graph .bar-wrap.beag-bar span {
@@ -1421,15 +1421,15 @@ blockquote {
       background: #36688D; }
 /*Soft Bar*/
       .skills-sec .progress-bar-graph .bar-wrap.s1-bar span {
-        background: #D75B66; }
+        background: #233237; }
         .skills-sec .progress-bar-graph .bar-wrap.s1-bar span:after {
           background: #D75B66; }
       .skills-sec .progress-bar-graph .bar-wrap.s2-bar span {
-        background: #BED905; }
+        background: #984B43; }
         .skills-sec .progress-bar-graph .bar-wrap.s2-bar span:after {
           background: #23345C; }
       .skills-sec .progress-bar-graph .bar-wrap.s3-bar span {
-        background: #F1BA48; }
+        background: #DCAE1D; }
         .skills-sec .progress-bar-graph .bar-wrap.s3-bar span:after {
           background: #F1BA48; }
       .skills-sec .progress-bar-graph .bar-wrap.s4-bar span {
