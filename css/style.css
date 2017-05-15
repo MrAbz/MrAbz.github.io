@@ -1446,20 +1446,20 @@ blockquote {
           background: #7B8937; }
 
 .skills-sec .progress-bar-graph span {
-  height: 4px;
+  height: 7px;
   width: 0px;
   display: block;
   float: left;
   position: relative;
   overflow: visible !important; }
   .skills-sec .progress-bar-graph span:after {
-    border-radius: 50%;
+    border-radius: 0%;
     content: "";
-    height: 13px;
+    height: 0px;
     position: absolute;
     right: 0px;
     top: -5px;
-    width: 13px; }
+    width: 0px; }
 
 /*Profile Sec*/
 .profile-sec .profile-icon {
