@@ -1397,7 +1397,7 @@ blockquote {
 /*Tech Bar*/
   .skills-sec .progress-bar-graph .bar-wrap.t1-bar span {
     /*background: #CF6766; }*/
-    background: linear-gradient(to left, #F58D8C 50%, #C25A59 100%); }
+    background: linear-gradient(to left, #BE7169 50%, #8B3E36 100%); }
     .skills-sec .progress-bar-graph .bar-wrap.t1-bar span:after {
       background: #A7414A; }
   .skills-sec .progress-bar-graph .bar-wrap.t2-bar span {
@@ -1425,17 +1425,17 @@ blockquote {
 /*Soft Bar*/
       .skills-sec .progress-bar-graph .bar-wrap.s1-bar span {
         /*background: #233237; }*/
-        background: linear-gradient(to right, #49585D 90%, #16252A 100%); }
+        background: linear-gradient(to left, #639496 50%, #497A7C 100%); }
         .skills-sec .progress-bar-graph .bar-wrap.s1-bar span:after {
           background: #D75B66; }
       .skills-sec .progress-bar-graph .bar-wrap.s2-bar span {
         /*background: #984B43; }*/
-        background: linear-gradient(to right, #BE7169 90%, #8B3E36 100%); }
+        background: linear-gradient(to left, #BE7169 50%, #8B3E36 100%); }
         .skills-sec .progress-bar-graph .bar-wrap.s2-bar span:after {
           background: #23345C; }
       .skills-sec .progress-bar-graph .bar-wrap.s3-bar span {
         /*background: #DCAE1D; }*/
-        background: linear-gradient(to right, #FFD443 90%, #CFA110 100%); }
+        background: linear-gradient(to left, #798A7A 50%, #5A6B5B 100%); }
         .skills-sec .progress-bar-graph .bar-wrap.s3-bar span:after {
           background: #F1BA48; }
       .skills-sec .progress-bar-graph .bar-wrap.s4-bar span {
