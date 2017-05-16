@@ -1396,15 +1396,18 @@ blockquote {
           background: #581845; }
 /*Tech Bar*/
   .skills-sec .progress-bar-graph .bar-wrap.t1-bar span {
-    background: #CF6766; }
+    /*background: #CF6766; }*/
+    background: linear-gradient(to right, #CF6766 90%, #ffffff 100%); }
     .skills-sec .progress-bar-graph .bar-wrap.t1-bar span:after {
       background: #A7414A; }
   .skills-sec .progress-bar-graph .bar-wrap.t2-bar span {
-    background: #30415D; }
+    /*background: #30415D; }*/
+    background: linear-gradient(to right, #30415D 90%, #ffffff 100%); }
     .skills-sec .progress-bar-graph .bar-wrap.t2-bar span:after {
       background: #282726; }
   .skills-sec .progress-bar-graph .bar-wrap.t3-bar span {
-    background: #3F3250; }
+    /*background: #3F3250; }*/
+    background: linear-gradient(to right, #3F3250 90%, #ffffff 100%); }
     .skills-sec .progress-bar-graph .bar-wrap.t3-bar span:after {
       background: #6A8A82; }
   .skills-sec .progress-bar-graph .bar-wrap.beag-bar span {
@@ -1421,15 +1424,18 @@ blockquote {
       background: #36688D; }
 /*Soft Bar*/
       .skills-sec .progress-bar-graph .bar-wrap.s1-bar span {
-        background: #233237; }
+        /*background: #233237; }*/
+        background: linear-gradient(to right, #233237 90%, #ffffff 100%); }
         .skills-sec .progress-bar-graph .bar-wrap.s1-bar span:after {
           background: #D75B66; }
       .skills-sec .progress-bar-graph .bar-wrap.s2-bar span {
-        background: #984B43; }
+        /*background: #984B43; }*/
+        background: linear-gradient(to right, #984B43 90%, #ffffff 100%); }
         .skills-sec .progress-bar-graph .bar-wrap.s2-bar span:after {
           background: #23345C; }
       .skills-sec .progress-bar-graph .bar-wrap.s3-bar span {
-        background: #DCAE1D; }
+        /*background: #DCAE1D; }*/
+        background: linear-gradient(to right, #DCAE1D 90%, #ffffff 100%); }
         .skills-sec .progress-bar-graph .bar-wrap.s3-bar span:after {
           background: #F1BA48; }
       .skills-sec .progress-bar-graph .bar-wrap.s4-bar span {
